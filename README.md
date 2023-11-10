@@ -1,6 +1,6 @@
 # AWS Elastic Beanstalk Node.js Sample App
 
-This repository contains a sample Node.js web application built using [Express](https://expressjs.com/), meant to be used as part of the AWS DevOps Learning Path. In this project, I ran a web application using AWS Elastic Beanstalk to display text on a webpage. After setting up a CI/CD pipeline to AWS CodePipeline, I made changes to the application code to display different types of messages and deployed those changes to the web application. The proof of concept can be found in the form of images in the repository.
+This repository contains a sample Node.js web application built using [Express](https://expressjs.com/), meant to be used as part of the AWS DevOps Learning Path. In this project, I ran a web application using AWS Elastic Beanstalk to display text on a webpage. After setting up a CI/CD pipeline to AWS CodePipeline, I made changes to the application code to display different types of messages and deployed those changes to the web application. The proof of concept can be found in the form of images in the ProofOfConcept folder in the repository.
 
 ## AWS Services Used
 * AWS Elastic Beanstalk
