@@ -16,6 +16,10 @@ This repository contains a sample Node.js web application built using [Express](
 ## Procedure
 For full procedure, visit (https://aws.amazon.com/getting-started/hands-on/create-continuous-delivery-pipeline/?ref=gsrchandson).
 
+## Project Architecure
+![ProjectArchitecture](https://github.com/joshpalli/deploying-ci-cd-pipeline-aws-elastic-beanstalk/assets/149811427/a3064f22-e594-4364-9c15-8262dc7e69ef)
+
+
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
